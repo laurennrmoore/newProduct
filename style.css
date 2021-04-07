@@ -1,0 +1,98 @@
+
+h1{
+    font-family: fairplay display;
+    font-weight: 500;
+    font-style: normal;
+    background-color: rgb(27, 246, 224);
+    text-align: center;
+    }
+    
+    
+    
+    h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    text-align: center;
+    background-color: cyan;
+    }
+    
+    
+    img{
+    width: 150px;
+    align-items: flex-end;
+    margin: auto;
+    display: block;
+    }
+    
+    blockquote{
+    text-align: center; 
+    background-color: aqua;   
+    }
+    
+    pre{
+    text-align: right;
+    width: 100%;
+    margin-top: 0%;
+    }
+    
+    .contact-us{
+    float: right; 
+    margin-bottom: 0px;  
+    }
+    
+    .div-2{
+    background-color: cyan;
+    }
+    
+    
+    ul{
+        background-color: rgb(223, 240, 237);
+    }
+    
+    
+    ol{
+        list-style: disc;
+        background-color: rgb(223, 240, 237);
+        
+    }
+    
+    
+    .We-love-food{
+    text-align: center;
+    }
+    
+    
+    
+    .img-container{
+        border: 2px solid black;
+        display: flex;
+        flex-direction: column;
+        
+    }
+    
+    
+    
+    .images{
+        width: 30px;
+        height: 30px;
+    }
+    
+    .root-container{
+        border: 2px solid black;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: aqua;
+    }
+    
+    
+    .cafe-img{
+        border: 2px solid black;
+        align-self: center;
+    }
+    
+    
+    #id first-paragraph{
+        background-color: deepskyblue;
+        
+    }
